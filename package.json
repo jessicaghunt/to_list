@@ -1,0 +1,24 @@
+{
+  "name": "to_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicaghunt/to_list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicaghunt/to_list/issues"
+  },
+  "homepage": "https://github.com/jessicaghunt/to_list#readme",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

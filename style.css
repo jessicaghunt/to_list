@@ -1,0 +1,49 @@
+h1 { 
+    color: purple;
+  }
+  h2 {
+    color:darkolivegreen
+    
+  }
+
+
+  .done {
+    text-decoration: line-through;
+    text-decoration-color: rgb(175, 7, 7);
+  }
+body {
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bolder;
+    background-image: url("https://img.freepik.com/free-photo/landscape-tropical-vacation-palm-summer_1203-5352.jpg");
+    background-size: 530px 900px;
+
+    text-align: center;
+
+    
+
+}
+
+button {
+
+  border: 5;
+  line-height: 3.5;
+  padding: 0 10px;
+  font-size: 1rem;
+  text-align: center;
+  color: #110e0e;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 50px;
+  background-color: rgb(220, 176, 0);
+  
+}
+
+.styled:hover {
+  background-color: rgb(255, 123, 0);
+}
+
+.styled:active {
+  box-shadow:
+    inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
